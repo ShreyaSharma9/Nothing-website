@@ -1,0 +1,353 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Hero-section{
+    height: 100vh;
+    display: flex;
+
+}
+.image-section{
+    height: 600px;
+    width: 65%;
+    background-image: url(img1.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.text-section{
+    font-family: NType82Mono !important;
+
+    margin-left: 810px;
+    margin-top: -300px
+}
+.text-section h4{
+    margin-bottom: 10px;
+    font-weight: lighter;
+    
+}
+.text-section h1{
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: lighter;
+}
+.text-section h3{
+    margin-bottom: 20px;
+    font-weight: lighter;
+
+}
+.Sign-btn{
+    width: 90%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(12, 28, 63);
+    color: white;
+    height: 20px;
+    margin-bottom: 20px;
+}
+.Hero-section-two{
+    height: 100vh;
+    display: flex;
+}
+.image-section-two{
+    height: 600px;
+    width: 65%;
+    background-image: url(img2.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+#logo{
+    height: 300px;
+    margin-left: 600px;
+    margin-top: 150px;
+}
+.text-section-two{
+    font-family: NType82Mono !important;
+    margin-left: 20px;
+    margin-top: 225px;
+    
+}
+.text-section-two h4{
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+.text-section-two h1{
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: lighter;
+
+}
+.text-section-two h3{
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+.learn-btn{
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(12, 28, 63);
+    color: white;
+    height: 20px;
+
+}
+.Hero-section-three{
+    height: 100vh;
+    display: flex;
+}
+.image-section-three{
+    height: 600px;
+    width: 65%;
+    margin-top: px;
+    margin-left: -px;
+    background-image: url(img11.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+.text-section-three{
+    font-family: NType82Mono !important;
+    margin-top: 250px;
+    margin-left: 20px;
+
+}
+.text-section-three h1{
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.text-section-three h3{
+    font-weight: lighter;
+    
+}
+.text-section-three p{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.learrn-btn{
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(12, 28, 63);
+    color: white;
+    height: 20px;
+}
+.Hero-section-four{
+    height: 90vh;
+    display: flex;
+}
+.image-section-four{
+    height: 500px;
+    width: 68%;
+    margin-top: 32px;
+    
+    background-image: url(img12.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+.text-section-four{
+    font-family: NType82Mono !important;
+    margin-top: 190px;
+    margin-left: 20px;
+}
+.text-section-four h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+.text-section-four h1{
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.text-section-four h3{
+    font-weight: lighter;
+    margin-bottom: -2px;
+    font-size: 22px;
+}
+.text-section-four p{
+    font-size: 22px;
+}
+.learnn-btn{
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(12, 28, 63);
+    color: white;
+    height: 20px;
+}
+.Hero-section-five{
+    height: 90vh;
+    display: flex;
+}
+.image-section-five{
+    height: 500px;
+    width: 66.5%;
+    margin-top: 20px;
+
+    background-image: url(img13.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+.text-section-five{
+    font-family: NType82Mono !important;
+    margin-top: 150px;
+    margin-left: 20px;
+}
+.text-section-five h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+.text-section-five h1{
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.text-section-five h3{
+    font-weight: lighter;
+    font-size: 22px;
+}
+.text-section-five p{
+    font-size: 22px;
+}
+.leaarn-btn{
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(12, 28, 63);
+    color: white;
+    height: 20px;
+}
+.Hero-section-six{
+    height: 90vh;
+    display: flex;
+}
+.image-section-six{
+    height: 500px;
+    width: 65%;
+    margin-top: 9px;
+
+    background-image: url(img14.webp);
+    background-size: cover;
+    background-position: center;
+
+}
+.text-section-six{
+    font-family: NType82Mono !important;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.text-section-six h4{
+    font-size: 21px;
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+.text-section-six h1{
+    font-size: 45px;
+    
+
+}
+.text-section-six p{
+    font-size: 21px;
+
+
+}
+.text-section-six h3{
+    font-size: 21px;
+    font-weight: lighter;
+    margin-top: 20px;
+}
+.leearn-btn{
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(12, 28, 63);
+    color: white;
+    height: 20px;
+}
+.Hero-section-seven{
+    font-family: NType82Mono !important;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.text-section-seven p{
+    margin-top: 10px;
+    font-size: 25px;
+
+}
+#logo1{
+    height: 20px;
+    width: 90px;
+    margin-left: 85px;
+}
+.text-section-eigth p{
+    margin-top: 10px;
+    font-size: 25px;
+
+}
+#logo2{
+    height: 25px;
+    width: 60px;
+    margin-left: 85px;
+}
+.text-section-nine p{
+    margin-top: 10px;
+    font-size: 25px;
+
+}
+#logo3{
+    height: 25px;
+    width: 60px;
+    margin-left: 85px;
+}
+.Hero-section-ten{
+    height: 80vh;
+    display: flex;
+    background-color: rgb(216, 213, 213);
+    
+
+}
+.Hero-section-ten ul{
+    width: 20%;
+    margin-top: 50px;
+}
+.Hero-section-ten ul li{
+
+    list-style: none;
+}
+.text-section-ten{
+
+    margin-top: 380px;
+    margin-left: -1228px;
+    
+}
+.text-section-ten h3{
+    font-weight: lighter;
+
+}
+.text-section-eleven{
+    margin-top: 380px;
+    margin-left: 90px;
+}
+.text-section-eleven h3{
+    font-weight: lighter;
+}
+.text-section-12{
+    margin-top: 380px;
+    margin-left: 230px;
+}
+.text-section-12 h3{
+    font-weight: lighter;
+}
